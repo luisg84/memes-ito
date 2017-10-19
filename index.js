@@ -8,7 +8,7 @@ const obj = {
 }
 
 console.log(obj.nombre)
-console.log(obj.tw)
+console.log(obj.instagram)
 
 //
 // function hola () {
