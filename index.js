@@ -4,7 +4,7 @@ const obj = {
   nombre: 'iddar',
   edad: 29,
   email: 'iddar@dbug.mx',
-  tw: '@iddar'
+  tw: '@TheZckboy'
 }
 
 console.log(obj.nombre)
