@@ -1,9 +1,9 @@
 // const lodash = require('lodash')
 
 const obj = {
-  nombre: 'iddar',
-  edad: 29,
-  email: 'iddar@dbug.mx',
+  nombre: 'Jonathan',
+  edad: 23,
+  email: 'serrano@blackflag.mx',
   tw: '@TheZckboy'
 }
 
