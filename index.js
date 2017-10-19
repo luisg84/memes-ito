@@ -4,11 +4,11 @@ const obj = {
   nombre: 'iddar',
   edad: 29,
   email: 'iddar@dbug.mx',
-  instagram: '@thezckboy6'
+  tw: '@luisg_84'
 }
 
 console.log(obj.nombre)
-console.log(obj.instagram)
+console.log(obj.tw)
 
 //
 // function hola () {
