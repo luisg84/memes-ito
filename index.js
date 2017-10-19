@@ -7,6 +7,7 @@ const obj = {
   tw: '@iddar'
 }
 
+console.log(obj.nombre)
 console.log(obj.tw)
 
 //
